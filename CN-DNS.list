@@ -18,3 +18,4 @@ IP-CIDR,240C::6644/32,no-resolve
 IP-CIDR,240c::64/32,no-resolve
 IP-CIDR,2400:3200::1/32,no-resolve
 IP-CIDR,2400:3200:baba::1/32,no-resolve
+IP-CIDR,2402:4e00::/32,no-resolve
